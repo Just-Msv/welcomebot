@@ -1,4 +1,4 @@
-console.log("Bot coded by Ƭᗫᗫℭ • Msv ❤ α  ᴰᴱⱽ#1290")
+console.log("commands all set")
 //====================================================================================CONSTANTS REQUIRED ON READY=============================================================================================
 const { Client, Collection } = require('discord.js');
 const { PREFIX, TOKEN } = require('./config');
