@@ -1,6 +1,6 @@
 var Discord = require('discord.js')
 const fs = require("fs")
-const { PREFIX } = require("../config")
+const { PREFIX } = require("../../config")
 const db = require('quick.db')
 const { stripIndents } = require("common-tags");
 
