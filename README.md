@@ -10,6 +10,15 @@
 -   after installation type `node index.js`
 -   now ur bot is online 
 
+## Usage - config.json
+
+```json
+{
+  "TOKEN": "",
+  "PREFIX": "+",
+}
+```
+
 ## COMMANDS :
 
 -  `help`    --  Total commands of the bot
