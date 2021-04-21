@@ -10,13 +10,14 @@
 -   after installation type `node index.js`
 -   now ur bot is online 
 
-## Usage - config.json
+## Usage - config.js
 
 ```json
-{
-  "TOKEN": "",
-  "PREFIX": "+",
-}
+exports.TOKEN = "BOT_TOKEN";
+
+exports.PREFIX = "BOT_PREFIX";
+
+exports.OWNER_ID = "OWNER_ID"
 ```
 
 ## COMMANDS :
