@@ -6,6 +6,7 @@
 
 -   First Fork the project 
 -   In config.js file keep ur bot token , prefix and owner id 
+-   Convert the repo into `node.js`
 -   type `npm install` to install the files
 -   after installation type `node index.js`
 -   now ur bot is online 
