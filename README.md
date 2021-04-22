@@ -26,12 +26,4 @@ exports.OWNER_ID = "OWNER_ID"
 
 ```{
     "ownerID":  ["OWNER_ID"]
-}```
-
-## COMMANDS :
-
--  `help`    --  Total commands of the bot
--  `invite`  --  Bot link
--  `stats`   --  Stats of the bot
--  `welcome` --  total welcome setup commands
-
+}
