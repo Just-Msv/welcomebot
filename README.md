@@ -24,10 +24,9 @@ exports.OWNER_ID = "OWNER_ID"
 ```
 -  owner.js
 
-``{
+```{
     "ownerID":  ["OWNER_ID"]
-}
-```
+}```
 
 ## COMMANDS :
 
