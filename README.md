@@ -6,10 +6,10 @@
 
 -   First Fork the project 
 -   In config.js file keep ur bot token , prefix and owner id 
+-   and dont forget to edit in `owner.json`
 -   Convert the repo into `node.js`
 -   type `npm install` to install the files
 -   after installation type `node index.js`
--   and dont forget to edit in `owner.js`
 -   now ur bot is online 
 
 ## Usage 
@@ -22,7 +22,7 @@ exports.PREFIX = "BOT_PREFIX";
 
 exports.OWNER_ID = "OWNER_ID"
 ```
--  owner.js
+-  owner.json
 
 ```json
 {
