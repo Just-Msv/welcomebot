@@ -1,6 +1,6 @@
 # WELCOME BOT
 
--  It a Source code for welcome bot 
+-  It a Source code for welcome bot with image
 
 ##  INSTALLATION
 
