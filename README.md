@@ -14,7 +14,7 @@
 
 ## Usage 
 - config.js
-
+ 
 ```json
 exports.TOKEN = "BOT_TOKEN";
 
