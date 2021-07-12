@@ -24,9 +24,10 @@ exports.OWNER_ID = "OWNER_ID"
 ```
 -  owner.json
 
-```json
+```js
 {
     "ownerID":  ["OWNER_ID"]
 }
+```
 
  
